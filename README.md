@@ -25,7 +25,7 @@ To manually install:
 
 ## Hardware
 
-* [Adafruit STSPIN220 - Low Voltage Stepper Motor Driver Breakout](https://www.adafruit.com/products/XXXX)
+* [Adafruit STSPIN220 - Low Voltage Stepper Motor Driver Breakout](https://www.adafruit.com/products/6353)
 
 ## Examples
 
